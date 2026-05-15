@@ -1,0 +1,19 @@
+{
+  "best_model": "Multinomial Naive Bayes",
+  "accuracy": 0.2857142857142857,
+  "all_accuracies": {
+    "Multinomial Naive Bayes": 0.2857142857142857,
+    "Logistic Regression": 0.2857142857142857,
+    "Linear SVM": 0.2857142857142857
+  },
+  "classes": [
+    "action",
+    "comedy",
+    "drama",
+    "horror",
+    "romance",
+    "sci-fi",
+    "thriller"
+  ],
+  "dataset_rows": 35
+}
