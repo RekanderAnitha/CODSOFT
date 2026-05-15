@@ -1,0 +1,8 @@
+{
+  "name": "FraudShield X",
+  "description": "A futuristic, AI-powered fintech cybersecurity platform for advanced credit card fraud detection and risk analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
