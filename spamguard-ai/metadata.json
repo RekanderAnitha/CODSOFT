@@ -1,0 +1,6 @@
+{
+  "name": "SpamGuard AI",
+  "description": "An intelligent SMS spam classifier powered by Gemini AI, featuring text analysis and spam indicator detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
